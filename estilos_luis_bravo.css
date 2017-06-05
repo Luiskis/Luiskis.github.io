@@ -1,0 +1,68 @@
+.Titulo {
+	width:100%;
+}
+.conan{
+	width: 1000px;
+	height: 500px;
+	margin:auto;
+	border: 3px solid black;
+	background-image: url("conan.jpg");
+}
+.ghost{
+	width: 1000px;
+	height: 500px;
+	margin:auto;
+	border: 3px solid black;
+	background-image: url("ghost.jpg");
+}
+.mass{
+	width: 1000px;
+	height: 500px;
+	margin:auto;
+	border: 3px solid black;
+	background-image: url("mass.jpg");
+}
+.header {
+	margin: 0;
+	position:fixed;
+	top:0;
+	right:0;
+	left:0;
+}
+.li {
+	margin: 0;
+	position:fixed;
+	border: black 5px solid;
+	top:220px;
+	right:0;
+	left:0;
+}
+
+.nav ul{
+
+   list-style-type: none;
+   padding:0;
+   text-align: center;
+
+}
+
+.nav li {
+   display: inline;
+   text-align: center;
+   margin: 0 5px 0 0; 
+}
+
+.nav li a{
+	text-decoration: none; 
+}
+body{
+	
+	background-image: url("fondo.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center;
+}
+p1 {
+text-align: center;
+
+}
